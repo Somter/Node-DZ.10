@@ -1,0 +1,9 @@
+{
+  "username": "hello",
+  "login": "login123",
+  "email": "bhbfOktf@gmail.com",
+  "password": "222",
+  "address": "aaa",
+  "country": "USA",
+  "gender": "male"
+}
